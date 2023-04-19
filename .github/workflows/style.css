@@ -1,0 +1,15 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 50px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  #clock {
+    display: inline-block;
+    padding: auto;
+  }
+  
